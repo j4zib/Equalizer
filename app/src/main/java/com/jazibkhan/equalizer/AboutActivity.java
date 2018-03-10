@@ -22,7 +22,7 @@ public class AboutActivity extends AppCompatActivity {
                 addGroup("Connect with us")
                 .addEmail("jazib27@hotmail.com")
                 .addPlayStore("com.jazibkhan.equalizer")
-                .addGitHub("medyo")
+                .addGitHub("JazibOfficial/Equalizer")
                 .create();
 
         setContentView(aboutPage);
